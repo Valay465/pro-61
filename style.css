@@ -1,0 +1,17 @@
+#mail {
+    width: 100px;
+    padding-right: 30px;
+}
+body {
+    text-align: center;
+}
+img:hover {
+    transform: scale(0.9);
+}
+#dis {
+    width: 90px;
+}
+#ins {
+    width: 90px;
+    padding-left: 30px;
+}
